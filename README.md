@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RoseH20
-- 👀 I’m interested in better understanding how to utilize GitHub
+- 👀 I’m interested in Business Intelligence and Analysis on Cloud Computing resources.
 - 🌱 I’m currently learning Python and Java (because when do we ever stop learning and building)
 - 💞️ I’m looking to collaborate on integration of tools, especially pertaining to SQL, Python, and Java.
 - 📫 How to reach me ... comments
